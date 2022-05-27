@@ -1,0 +1,8 @@
+.card-img-top{
+  height: 16rem;
+  cursor: pointer;
+}
+.pagination-section{
+    text-align: center;
+    margin-top: 5%;
+}

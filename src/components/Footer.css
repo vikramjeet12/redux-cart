@@ -1,0 +1,52 @@
+.wrapper{
+    width: 100%;
+    background: #356ffd;;
+    height: 420px;
+    margin-top: 5%;
+}
+.sub_wrapper{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+}
+.about-section{
+    width: 24%;
+    color: #fff;
+}
+.about-section h2{
+    color: #fff;
+}
+.about-section p{
+    width: 85%;
+    font-size: 20px;
+}
+.address-section h2{
+    color: #fff;
+}
+.address-section h4{
+    color: #fff;
+}
+.social-icons h2{
+    color: #fff;
+}
+.social-icons p{
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.partner-section h2{
+    color: #fff;
+}
+.partner-section p{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+}
+.swiggy img{
+    width: 80px;
+    margin-bottom: 20px;
+}

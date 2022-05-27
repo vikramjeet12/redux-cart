@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    margin-top: 12px;
+    align-items: none;
+    justify-content: space-around;
+    margin-left: 11%;
+    margin-right: 30%;
+}
+.cart{
+    color: #fff;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+.card-wrapper{
+    margin-left: 10%;
+
+}
+.smallclose{
+    position: absolute;
+    top: 2px;
+    right: 20px;
+    font-size: 23;
+    cursor: pointer;
+}
+.home{
+    margin: -2px 0px 5px 60px;
+}
+.card_details img{
+    height: 4rem;
+    width: 58%;
+    margin-left: 48px;
+    margin-top: -24px;
+}
+.smallclose{
+    font-size: 24px;
+    margin-right: -10px;
+}
